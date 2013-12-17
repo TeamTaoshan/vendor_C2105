@@ -181,4 +181,3 @@ PRODUCT_COPY_FILES += \
     vendor/sony/c2105/proprietary/system/bin/ks:system/bin/ks \
     vendor/sony/c2105/proprietary/system/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/c2105/proprietary/system/bin/cci_tatest:system/bin/cci_tatest \
-    vendor/sony/c2105/proprietary/system/bin/akmd8963:system/bin/akmd8963 \
